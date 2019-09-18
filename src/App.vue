@@ -2,12 +2,11 @@
   <div class="app-container">
 
     <!-- 顶部 Header 区域 -->
-    <mt-header fixed title="黑马程序员·Vue项目"></mt-header>
-
+<mt-header fixed title="商城——VUE"></mt-header>
 
     <!-- 中间的 路由 router-view 区域 -->
 		<transition>
-			<router-view></router-view>
+			<router-view>123</router-view>
 		</transition>
 
 
@@ -32,7 +31,7 @@
 				<span class="mui-tab-label">搜索</span>
 			</router-link>
 		</nav>
-
+	<h1>这是 APP 组件</h1>
   </div>
 </template>
 
@@ -40,25 +39,6 @@
 </script>
 
 
-<style lang="scss" scoped>
-.app-container {
-  padding-top: 40px;
-  overflow-x: hidden;
-}
+<style>
 
-.v-enter {
-  opacity: 0;
-  transform: translateX(100%);
-}
-
-.v-leave-to {
-  opacity: 0;
-  transform: translateX(-100%);
-  position: absolute;
-}
-
-.v-enter-active,
-.v-leave-active {
-  transition: all 0.5s ease;
-}
 </style>
