@@ -45,7 +45,7 @@ var store =new Vuex.Store({
     },
     updatedGoodsInfo(state,goodsinfo) {
       // 修改购物车中商品的数量值
-      state.car.som(item =>{
+      state.car.some(item =>{
         if(item.id == goodsinfo.id){
           item.count =parseInt(goodsinfo.count)
           return true
