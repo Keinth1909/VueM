@@ -97,9 +97,9 @@
 - [x] 购物车
 
 ## 实现效果
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.jpg) 
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.jpg) 
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.jpg) 
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/4.jpg) 
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/5.jpg) 
-![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/6.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.JPG) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.JPG) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.JPG) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/4.JPG) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/5.JPG) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/6.JPG) 
