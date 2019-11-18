@@ -89,6 +89,7 @@
 ## webpack打包 
 
 ## 实现功能
+
 - [x] 首页
 - [x] 新闻资讯
 - [x] 图片分享
@@ -97,6 +98,7 @@
 - [x] 购物车
 
 ## 实现效果
+
 ![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.JPG) 
 ![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.JPG) 
 ![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.JPG) 
