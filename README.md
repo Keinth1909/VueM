@@ -99,9 +99,9 @@
 
 ## 实现效果
 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.jpg) 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.jpg) 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.jpg) 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/4.jpg) 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/5.jpg) 
-![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/6.jpg) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.JPG) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.JPG) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.JPG) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/4.JPG) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/5.JPG) 
+![Image text](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/6.JPG) 
