@@ -87,3 +87,19 @@
 ## 尝试在手机上 进行项目预览和测试
 
 ## webpack打包 
+
+## 实现功能
+- [x] 首页
+- [x] 新闻资讯
+- [x] 图片分享
+- [x] 商品购买
+- [x] 购物详情
+- [x] 购物车
+
+## 实现效果
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/1.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/2.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/3.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/4.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/5.jpg) 
+![image](https://raw.githubusercontent.com/Keinth1909/VueM/master/src/images/6.jpg) 
